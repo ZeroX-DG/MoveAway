@@ -5,3 +5,6 @@ a simple game made with p5.js
 - You must not hit the red balls
 - The number of balls appear will be decided by your device screen
 - You can move your ball using the arrow keys
+## Contacts
+- https://facebook.com/ZeroXCEH
+- viethungax@gmail.com
